@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Directory.Build.props" />
+  </Folder>
+  <Project Path="MeetingAssistant.Application/MeetingAssistant.Application.csproj" />
+  <Project Path="MeetingAssistant.Domain/MeetingAssistant.Domain.csproj" />
+  <Project Path="MeetingAssistant.Infrastructure/MeetingAssistant.Infrastructure.csproj" />
+  <Project Path="MeetingAssistant.Shared/MeetingAssistant.Shared.csproj" />
+  <Project Path="MeetingAssistant.Tests/MeetingAssistant.Tests.csproj" />
+  <Project Path="MeetingAssistant.UI/MeetingAssistant.UI.csproj" />
+</Solution>
